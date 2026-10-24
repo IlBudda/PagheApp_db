@@ -1,0 +1,13 @@
+# Aputure INFINIMAT 4x4
+
+Official product page: https://aputure.com/en-US/products/aputure-infinimat-4x4-with-clear-softbox
+
+`00_og-primary.png` is the exact `og:image` value from the official product page. Other files are official product-gallery/card images for the same 4x4 product. Images for other sizes and separate compatible accessories are excluded.
+
+- `00_og-primary.png` — Open Graph primary image ([source](https://cdn.shopify.com/s/files/1/1343/1935/files/Aputure_INFINIMAT_LED_Clear_Softbox_Pack_Clean_x1000_41_5e53baef-0baf-4cf7-bf46-f3fb54eb1792.png?v=1762244352)) — 1000×1000, 335296 bytes, SHA-256 `e207c1c100c26097f31ad8ec2c85ad767a704627a37764a43609de235b51e7f4`
+- `01_clear-softbox-gallery.png` — Product gallery: clear softbox ([source](https://cdn.shopify.com/s/files/1/1343/1935/files/Aputure_INFINIMAT_LED_Clear_Softbox_Pack_Clean_x1000_39.png?v=1762244352&width=1000)) — 1000×1000, 362518 bytes, SHA-256 `765911b1b0b3f242dda33d9171dcfa98457bbc951e5c26bab93780eb16f05532`
+- `02_led-mat-gallery.png` — Product gallery: LED mat under clear softbox ([source](https://cdn.shopify.com/s/files/1/1343/1935/files/Aputure_INFINIMAT_LED_Clear_Softbox_Pack_Clean_x1000_45.png?v=1762244352&width=1000)) — 1000×1000, 560947 bytes, SHA-256 `05bd5ec9599bc7d2356c2fb8290330cd1657d5632955a83e24db3f48e125281e`
+- `03_carry-case-gallery.png` — Product gallery: carry case ([source](https://cdn.shopify.com/s/files/1/1343/1935/files/Aputure_INFINIMAT_LED_Clear_Softbox_Pack_Clean_x1000_49.png?v=1762767885&width=1000)) — 1000×1000, 714921 bytes, SHA-256 `2abf71991ab76dca64666482e73eab80d9dc3b783b9a292a4cf049f6864d0656`
+- `04_full-kit-gallery.png` — Product gallery: 4x4 kit overview ([source](https://cdn.shopify.com/s/files/1/1343/1935/files/Aputure_INFINIMAT_LED_Clear_____4x4_Clean_x1000_7e5c955d-98f5-4aad-8459-cd4b7182c035.png?v=1762767885&width=1000)) — 1000×1000, 458437 bytes, SHA-256 `117b164f4ba375f1c7e14ca75927065b7f19b5a45b8a9e2f322511acb751184c`
+- `05_infinimat-4x4-card.png` — Official product card: INFINIMAT 4x4 with Clear Softbox ([source](https://cdn.shopify.com/s/files/1/1343/1935/files/INFINIMAT_4x4-05.png?v=1729500548&width=1000)) — 1000×1000, 158608 bytes, SHA-256 `2273986a1021a762a607b881faebef2ae9ab341c5ab8ca0a1fd154961fc9fc3e`
+- `06_infinimat-4x4-softbox-card.png` — Official product card: INFINIMAT 4x4 with Softbox ([source](https://cdn.shopify.com/s/files/1/1343/1935/files/Aputure_INFINIMAT_LED_Clear_Softbox_Pack_Clean_x1000_4_c9eda22e-6c9a-436d-9e6f-8f7876f485a4.png?v=1762249263&width=1000)) — 1000×1000, 351075 bytes, SHA-256 `31be974acd74917439d073f9d0f59c2d0c517984acdeba1d035c67d37f5b3b31`
